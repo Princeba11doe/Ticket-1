@@ -1,4 +1,4 @@
-package Service;
+package com.healthcaremanagement.model.Service;
 
 import com.healthcaremanagement.model.Model.Doctor;
 import com.healthcaremanagement.model.repository.DoctorRepositoryImpl;
